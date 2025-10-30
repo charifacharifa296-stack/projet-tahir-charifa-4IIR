@@ -1,0 +1,4 @@
+Titre du Projet : Chatbot Juridique Spécialisé avec Analyse de Documents via LLM
+Description : Assistant intelligent qui analyse des documents légaux, extrait les clauses importantes, répond aux questions juridiques et génère des résumés en langage simple en s'appuyant sur une base juridique marocaine.
+Technologies Suggérées : Python (LangChain, RAG), React, PostgreSQL, OpenAI API
+Thèmes Principaux : LLMs spécifiques, Gestion publique web et intelligente
